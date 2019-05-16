@@ -4,4 +4,4 @@ def prime?(jawn)
      jawn % x != 0
    end
  else
-   
+   return false
